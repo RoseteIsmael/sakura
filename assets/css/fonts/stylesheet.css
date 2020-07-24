@@ -1,0 +1,72 @@
+@font-face {
+    font-family: 'TIAS';
+    src: url('TIAS-SemiBold.eot');
+    src: local('TIAS SemiBold'), local('TIAS-SemiBold'),
+        url('TIAS-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('TIAS-SemiBold.woff2') format('woff2'),
+        url('TIAS-SemiBold.woff') format('woff'),
+        url('TIAS-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'TIAS';
+    src: url('TIAS-Regular.eot');
+    src: local('TIAS Regular'), local('TIAS-Regular'),
+        url('TIAS-Regular.eot?#iefix') format('embedded-opentype'),
+        url('TIAS-Regular.woff2') format('woff2'),
+        url('TIAS-Regular.woff') format('woff'),
+        url('TIAS-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'TIAS';
+    src: url('TIAS-Bold.eot');
+    src: local('TIAS Bold'), local('TIAS-Bold'),
+        url('TIAS-Bold.eot?#iefix') format('embedded-opentype'),
+        url('TIAS-Bold.woff2') format('woff2'),
+        url('TIAS-Bold.woff') format('woff'),
+        url('TIAS-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'TIAS';
+    src: url('TIAS-Thin.eot');
+    src: local('TIAS Thin'), local('TIAS-Thin'),
+        url('TIAS-Thin.eot?#iefix') format('embedded-opentype'),
+        url('TIAS-Thin.woff2') format('woff2'),
+        url('TIAS-Thin.woff') format('woff'),
+        url('TIAS-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'TIAS';
+    src: url('TIAS-Light.eot');
+    src: local('TIAS Light'), local('TIAS-Light'),
+        url('TIAS-Light.eot?#iefix') format('embedded-opentype'),
+        url('TIAS-Light.woff2') format('woff2'),
+        url('TIAS-Light.woff') format('woff'),
+        url('TIAS-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'TIAS';
+    src: url('TIAS-Black.eot');
+    src: local('TIAS Black'), local('TIAS-Black'),
+        url('TIAS-Black.eot?#iefix') format('embedded-opentype'),
+        url('TIAS-Black.woff2') format('woff2'),
+        url('TIAS-Black.woff') format('woff'),
+        url('TIAS-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
