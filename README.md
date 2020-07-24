@@ -1,17 +1,33 @@
-# Template 1
-## Sakura Team
-<!-- 
-https://github-readme-stats.vercel.app/api?username=Lxrd17&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515 -->
+# Sakura Team
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+<img alt="cover" align='center' src="COVER.png" />
 
-### Tools: 
-#### Bootstrap
-#### AOS
-#### Scrollax
+Is a template for you agency, easy and fast.
 
+<img align='right' src='sakura.png' width='200"'>
+
+## Tools: 
+* CSS
+    * [Bootstrap](https://getbootstrap.com/) 
+        * [AOS](https://michalsnik.github.io/aos/)
+            * [Venobox](https://veno.es/venobox/)
+* JS
+    * [AOS](https://michalsnik.github.io/aos/)
+        * [Venobox](https://veno.es/venobox/)
+* HTML
+    * Structure
+
+## Installation 🔧
+
+#### Just unzip the .zip file and open it with your favorite code editor to be able to run.
+
+## Thank you for choosing this template.🎁
+
+* Tell others about this project 📢
+* Invite me a coffee ☕ 
+* If you want a personalized static website, I can gladly help you.😉
 
 ## Autor
 * **Ismael Rosete** - *Sakura* - [Lxrd17](https://github.com/Lxrd17)
 
-<img alt="cover" align='center' src="cover.jpg" />
+<img alt="cover" align='center' src="COVER.png" />
